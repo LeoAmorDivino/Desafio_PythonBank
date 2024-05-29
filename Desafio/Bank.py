@@ -24,7 +24,7 @@ while True:
         
         excedeu_saldo = saque > saldo
 
-        excedeu_limite = saldo > limite
+        excedeu_limite = saque > limite
 
         excedeu_saques = numero_saques >= limite_saques
 
